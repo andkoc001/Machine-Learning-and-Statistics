@@ -10,17 +10,15 @@ ___
 
 This repository documents my research, progress and findings on the assgiment for Machine Learning and Statistics module, Galway-Mayo Institute of Technology, 2020. Lecturer: dr Ian McLoughlin
 
-
 ### Assignment  delivery
 
 The project is delivered via this GitHub [repository](https://github.com/andkoc001/Machine-Learning-and-Statistics.git).
 
+The repository holds solutions to the tasks required for the project assignment. Each solution is presnted in a form of Jupyter Notebooks, separate for each task. See below for the list of the tasks and corresponding notebook.
 
-The repository is divided into two main sections, each in a separate Jupyter Notebook:
-1) Tasks - [MLaS_Tasks.ipynb](https://github.com/andkoc001/data_synthesis/blob/master/MLaS_Tasks.ipynb),
-2) Project.
+In the notebooks I have incorporated the research and described the tasks progress. It is illustrated the applied concepts and methods together with relevant code snippets. The notebook includes also the calculated outputs and plots with accompanied description. Finally, inside the notebook I have included also references to sources being consulted for this assignment.
 
-In the notebooks I have incorporated the research and described the project progress. It is illustrated the applied concepts and methods together with relevant code snippets. The notebook includes also the calculated outputs and plots with accompanied description. Finally, inside the notebook I have included also references to sources being consulted for this assignment.
+Note that this repository (solutuion to the tasks) is only a portion of the module assignment. The other part is a project available in a separate GitHub [repository](https://github.com/andkoc001/Machine-Learning-and-Statistics-Project.git).
 
 ### Viewing the Notebook
 
@@ -29,23 +27,22 @@ For viewing the notebook online, it is recommended to use Jupyter Notebooks view
 ___
 ## Tasks
 
-This section comprises of four tasks:
-1) Square root of 2
-2) .
-3) .
-4) . 
+This section comprises of the following tasks.
 
-Tasks are presented in the Jupyter Notebook [MLaS_Tasks.ipynb](https://github.com/andkoc001/data_synthesis/blob/master/MLaS_Tasks.ipynb)
+The detailed instruction to the tasks can be found in this [file](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/assessment(2).pdf).
 
 ### Task 1
 
 > Print on screen the square root of 2 to 100 decimal places.
 
-The detailed task #1 instruction:
-<https://learnonline.gmit.ie/mod/url/view.php?id=102004>  
+The solution of the task is presented in the [Square root of 2](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task1-sqrt2.ipynb) Jupyter Notebook.
 
 
+### Task 2
 
+> Verify the value of a sample Chi-squared test.
+
+The solution of the task is presented in the [Chi square test](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task2-Chi2.ipynb) Jupyter Notebook.
 
 ___
 ## References
