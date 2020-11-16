@@ -44,6 +44,14 @@ The solution of the task is presented in the [Square root of 2](https://github.c
 
 The solution of the task is presented in the [Chi square test](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task2-Chi2.ipynb) Jupyter Notebook.
 
+
+### Task 3
+
+> Simulate Excel function `STDDEC.S` and `STDDEV.P` with Numpy.
+
+The solution of the task is presented in the [Standard deviation](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task3-stddev.ipynb) Jupyter Notebook.
+
+
 ___
 ## References
 
