@@ -47,9 +47,9 @@ The solution of the task is presented in the [Chi square test](https://github.co
 
 ### Task 3
 
-> Simulate Excel function `STDEC.S` and `STDEV.P` with Numpy.
+> Simulate Excel function `STDEV.S` and `STDEV.P` with Numpy.
 
-The solution of the task is presented in the [Standard deviation](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task3-stdev.ipynb) Jupyter Notebook.
+The solution of the task is presented in the [Standard deviation](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MlaS-Task3-stdev.ipynb) Jupyter Notebook.
 
 
 ___
@@ -59,14 +59,16 @@ General, high-level, reference sources are listed below. References to specific 
 
 ### Regarding the project
 
--  
--
+- Ian McLoughlin, Assignment Brief, 2020. [pdf] GMIT. Available at: <https://learnonline.gmit.ie/mod/url/view.php?id=102004> [Accessed October 2020].
+
 
 ### Regarding Python environment
 
-- Python 3 Documentation. [online] Available at: <https://docs.python.org/3/> [Accessed November 2019].
-- Scipy - Scientific computing tools for Python.  [online] Available at:<https://www.scipy.org/about.html> [Accessed December 2019].
-- Project Jupyter Documentation. [online] Available at: <https://jupyter.org/documentation> [Accessed November 2019].
+- Python 3 Documentation. [online] Available at: <https://docs.python.org/3/> [Accessed November 2020].
+- Scipy - Scientific computing tools for Python.  [online] Available at:<https://www.scipy.org/about.html> [Accessed December 2020].
+- Project Jupyter Documentation. [online] Available at: <https://jupyter.org/documentation> [Accessed November 2020].
+- NumPy Documentation. [online] Available at: <https://numpy.org/doc/stable/index.html> [Accessed November 2020].
+
 
 
 ___
