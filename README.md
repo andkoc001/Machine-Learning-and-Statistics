@@ -47,9 +47,9 @@ The solution of the task is presented in the [Chi square test](https://github.co
 
 ### Task 3
 
-> Simulate Excel function `STDDEC.S` and `STDDEV.P` with Numpy.
+> Simulate Excel function `STDEC.S` and `STDEV.P` with Numpy.
 
-The solution of the task is presented in the [Standard deviation](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task3-stddev.ipynb) Jupyter Notebook.
+The solution of the task is presented in the [Standard deviation](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task3-stdev.ipynb) Jupyter Notebook.
 
 
 ___
