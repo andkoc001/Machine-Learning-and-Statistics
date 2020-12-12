@@ -1,66 +1,65 @@
 # Machine Learning and Statistics
-Machine Learning and Statistics module, Data Analytics Course, GMIT 2020
+
+Machine Learning and Statistics module, Data Analytics Course, GMIT 2020  
+Lecturer: dr Ian McLoughlin
 
 >Author: **Andrzej Kocielski**  
 >Github: [andkoc001](https://github.com/andkoc001/)  
 >Email: G00376291@gmit.ie
 
 ___
+
 ## Introduction
 
-This repository documents my research, progress and findings on the assgiment for Machine Learning and Statistics module, Galway-Mayo Institute of Technology, 2020. Lecturer: dr Ian McLoughlin
+This repository documents my research, progress and findings on the assignment for Machine Learning and Statistics module, Galway-Mayo Institute of Technology, 2020. Lecturer: dr Ian McLoughlin
 
 ### Assignment  delivery
 
-The project is delivered via this GitHub [repository](https://github.com/andkoc001/Machine-Learning-and-Statistics.git).
+The project is delivered via **Jupyter [notebook](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Tasks.ipynb)** in this GitHub [repository](https://github.com/andkoc001/Machine-Learning-and-Statistics.git).
 
-The repository holds solutions to the tasks required for the project assignment. Each solution is presnted in a form of Jupyter Notebooks, separate for each task. See below for the list of the tasks and corresponding notebook.
+The repository holds solutions to the tasks required for the project assignment. Each solution is presented in a form of Jupyter Notebooks, separate for each task. See below for the list of the tasks and corresponding notebook.
 
 In the notebooks I have incorporated the research and described the tasks progress. It is illustrated the applied concepts and methods together with relevant code snippets. The notebook includes also the calculated outputs and plots with accompanied description. Finally, inside the notebook I have included also references to sources being consulted for this assignment.
 
-Note that this repository (solutuion to the tasks) is only a portion of the module assignment. The other part is a project available in a separate GitHub [repository](https://github.com/andkoc001/Machine-Learning-and-Statistics-Project.git).
+Note that this repository (solution to the tasks) is only a portion of the module assignment. The other part is a project available in a separate GitHub [repository](https://github.com/andkoc001/Machine-Learning-and-Statistics-Project.git).
 
 ### Viewing the Notebook
 
 For viewing the notebook online, it is recommended to use Jupyter Notebooks viewer, [nbviewer](https://nbviewer.jupyter.org/). Paste the link to the notebook to be inspected into provided field.
 
 ___
+
 ## Tasks
 
 This section comprises of the following tasks.
 
-The detailed instruction to the tasks can be found in this [file](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/assessment(2).pdf).
+The detailed instruction to the tasks can be found in this [file](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/assessment.pdf).
 
 ### Task 1
 
 > Print on screen the square root of 2 to 100 decimal places.
 
-The solution of the task is presented in the [Square root of 2](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task1-sqrt2.ipynb) Jupyter Notebook.
-
-
 ### Task 2
 
 > Verify the value of a sample Chi-squared test.
-
-The solution of the task is presented in the [Chi square test](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Task2-Chi2.ipynb) Jupyter Notebook.
-
 
 ### Task 3
 
 > Simulate Excel function `STDEV.S` and `STDEV.P` with Numpy.
 
-The solution of the task is presented in the [Standard deviation](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MlaS-Task3-stdev.ipynb) Jupyter Notebook.
+### Task 4
 
+> Apply k-means clustering algorithm to Fisher's Iris data set using scikit-learn.
 
 ___
+
 ## References
 
-General, high-level, reference sources are listed below. References to specific problems are included in the Notebook.
+General, high-level, reference sources are listed below. For references to specific problems please refer to [Notbook](https://github.com/andkoc001/Machine-Learning-and-Statistics/blob/main/MLaS-Tasks.ipynb) containing solution to the tasks.
 
 ### Regarding the project
 
 - Ian McLoughlin, Assignment Brief, 2020. [pdf] GMIT. Available at: <https://learnonline.gmit.ie/mod/url/view.php?id=102004> [Accessed October 2020].
-
 
 ### Regarding Python environment
 
@@ -68,8 +67,7 @@ General, high-level, reference sources are listed below. References to specific 
 - Scipy - Scientific computing tools for Python.  [online] Available at:<https://www.scipy.org/about.html> [Accessed December 2020].
 - Project Jupyter Documentation. [online] Available at: <https://jupyter.org/documentation> [Accessed November 2020].
 - NumPy Documentation. [online] Available at: <https://numpy.org/doc/stable/index.html> [Accessed November 2020].
-
-
+- Scikit-learn Documentation. [online] Available at: <https://scikit-learn.org/stable/user_guide.html> [Accessed December 2020].
 
 ___
-Andrzej Kocielski, October 2020 - January 2021
+Andrzej Kocielski, 2020
